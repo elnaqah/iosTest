@@ -36,6 +36,7 @@
 		C164CEFB1833850200EBCF90 /* ITVideolistViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C164CEF91833850200EBCF90 /* ITVideolistViewController.m */; };
 		C164CEFC1833850200EBCF90 /* ITVideolistViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C164CEFA1833850200EBCF90 /* ITVideolistViewController.xib */; };
 		C164CF0018338D9D00EBCF90 /* ITListItem.m in Sources */ = {isa = PBXBuildFile; fileRef = C164CEFF18338D9D00EBCF90 /* ITListItem.m */; };
+		C164CF0218339F0100EBCF90 /* default.png in Resources */ = {isa = PBXBuildFile; fileRef = C164CF0118339F0100EBCF90 /* default.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +90,7 @@
 		C164CEFA1833850200EBCF90 /* ITVideolistViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ITVideolistViewController.xib; sourceTree = "<group>"; };
 		C164CEFE18338D9D00EBCF90 /* ITListItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ITListItem.h; sourceTree = "<group>"; };
 		C164CEFF18338D9D00EBCF90 /* ITListItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ITListItem.m; sourceTree = "<group>"; };
+		C164CF0118339F0100EBCF90 /* default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = default.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +165,7 @@
 		C164CE9618336C1A00EBCF90 /* InterviewTask */ = {
 			isa = PBXGroup;
 			children = (
+				C164CF0118339F0100EBCF90 /* default.png */,
 				C164CECB18336E6700EBCF90 /* progress-bg.png */,
 				C164CECC18336E6700EBCF90 /* progress-bg@2x.png */,
 				C164CECD18336E6700EBCF90 /* progress-fg.png */,
@@ -307,6 +310,7 @@
 				C164CED118336E6700EBCF90 /* progress-fg.png in Resources */,
 				C164CEFC1833850200EBCF90 /* ITVideolistViewController.xib in Resources */,
 				C164CECF18336E6700EBCF90 /* progress-bg.png in Resources */,
+				C164CF0218339F0100EBCF90 /* default.png in Resources */,
 				C164CEDC1833730D00EBCF90 /* ITVideoViewController.xib in Resources */,
 				C164CE9B18336C1A00EBCF90 /* InfoPlist.strings in Resources */,
 				C164CED718336F6900EBCF90 /* ITStreamingViewController.xib in Resources */,
