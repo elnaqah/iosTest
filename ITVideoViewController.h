@@ -1,5 +1,5 @@
 //
-//  ITViewController.h
+//  ITVideoViewController.h
 //  InterviewTask
 //
 //  Created by AhmedElnaqah on 11/13/13.
@@ -7,8 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ITViewController : UIViewController
-@property (strong, nonatomic) IBOutlet UILabel *helloLabel;
-
+@class ITListItem;
+@interface ITVideoViewController : UIViewController
+- (id)initWithItem:(ITListItem * ) aitem;
 @end

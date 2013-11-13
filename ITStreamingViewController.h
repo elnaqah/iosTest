@@ -1,5 +1,5 @@
 //
-//  ITViewController.h
+//  ITStreamingViewController.h
 //  InterviewTask
 //
 //  Created by AhmedElnaqah on 11/13/13.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ITViewController : UIViewController
-@property (strong, nonatomic) IBOutlet UILabel *helloLabel;
+@interface ITStreamingViewController : UIViewController
 
 @end
